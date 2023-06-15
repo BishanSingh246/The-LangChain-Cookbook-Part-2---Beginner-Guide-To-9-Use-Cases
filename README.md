@@ -12,7 +12,7 @@ Reference - <a href='https://www.youtube.com/watch?v=vGP4pQdCocw&list=PLqZXAkvF1
 ## Instruction
 To use this repository, follow these steps:
 
-1. Set it up on your local machine and open ```LangChain Cookbook Part 1 - Fundamentals.ipynb``` file with Vscode or Notebook
+1. Set it up on your local machine and open ```LangChain Cookbook Part 2 - Use Cases.ipynb``` file with Vscode or Notebook
 
 2. Generate Api key from <a href='https://platform.openai.com/account/api-keys'>OpenAI</a>. 
 
